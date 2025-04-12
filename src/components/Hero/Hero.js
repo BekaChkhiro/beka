@@ -63,7 +63,7 @@ const Hero = () => {
             <div className="relative w-64 h-64 md:w-80 md:h-80">
               <div className="absolute inset-0 bg-gradient-to-r from-blue-500 to-purple-600 rounded-full animate-pulse"></div>
               <img
-                src="/wp-content/themes/Beka/src/assets/images/beka-profile.jpg"
+                src="https://beka.webin.ge/wp-content/uploads/2025/04/beka-profile.jpg"
                 alt="Beka Chkhirodze"
                 className="absolute inset-2 rounded-full object-cover w-[calc(100%-16px)] h-[calc(100%-16px)] border-4 border-white/20 backdrop-blur-3xl transform hover:scale-105 transition-transform duration-300"
               />
