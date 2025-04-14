@@ -25,20 +25,12 @@ const ExperienceCard = ({ role, company, period, description, technologies }) =>
 const Experience = () => {
   const experiences = [
     {
-      role: "Senior Full Stack Developer",
-      company: "Tech Solutions Inc.",
-      period: "2023 - Present",
-      description: "Led development of enterprise-level web applications, mentored junior developers, and implemented CI/CD pipelines.",
-      technologies: ["React", "Node.js", "AWS", "Docker"]
-    },
-    {
       role: "Full Stack Developer",
-      company: "Digital Innovations",
-      period: "2021 - 2023",
-      description: "Developed and maintained multiple client projects, focusing on scalable solutions and optimal performance.",
-      technologies: ["Vue.js", "Python", "PostgreSQL", "Redis"]
-    },
-    // Add more experiences as needed
+      company: "Infinity Solutions",
+      period: "March 2022 - Present",
+      description: "Developing and maintaining web applications, implementing new features, and ensuring optimal performance.",
+      technologies: ["React", "Node.js", "JavaScript", "PHP"]
+    }
   ];
 
   return (
